@@ -1,7 +1,7 @@
 # Simple Vue Modal
 This extension provides a simple Vue modal component.
 
-###Features
+### Features
 * Ability to make an alert modal.
 * Auto hide modal after **n** amount of seconds.
 * Customize trigger button classes.
